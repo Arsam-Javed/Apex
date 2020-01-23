@@ -27,3 +27,5 @@ export const signJwt = (payload: object) => {
 // update 2020-01-20 commit 6
 
 // update 2020-01-21 commit 1
+
+// update 2020-01-23 commit 2
