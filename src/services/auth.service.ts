@@ -215,3 +215,5 @@ export const generateToken = (userId: string) => {
 // update 2020-07-21 commit 1
 
 // update 2020-07-31 commit 3
+
+// update 2020-08-02 commit 3
